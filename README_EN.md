@@ -59,3 +59,5 @@ DEVICE_MAC = "Your_Device_MAC_Address"  # Replace with the MAC Address obtained 
 ```bash
 python LYWSD03MMC_db.py
 ```
+After running, choose option 2 to start reading device data. Continue until the terminal displays "Data saved successfully". 
+Note: Ensure the device has Bluetooth enabled and is in a connectable state. Multiple attempts may be required.
