@@ -60,3 +60,5 @@ DEVICE_MAC = "您的设备MAC地址"  # 替换为从 Tokens-Extractor 获取的 
 ```bash
 python LYWSD03MMC_db.py
 ```
+运行后选择选项 2 开始读取设备数据，直到终端提示"数据保存正常"。
+注意：请确保设备已开启蓝牙并处于可连接状态，可能需要进行多次尝试。
